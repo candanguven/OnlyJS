@@ -19,6 +19,10 @@ body{
     background-color:rgb(255, 255, 255);
     color: black;
 }
+h1{
+    border: 3px solid red;
+    width: 300px;
+}
 p{
     color: rgb(255,0,0);
 }

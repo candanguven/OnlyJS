@@ -19,9 +19,12 @@ body{
     background-color:rgb(255, 255, 255);
     color: black;
 }
+header{
+   width: 50%;
+}
 h1{
     border: 3px solid red;
-    width: 300px;
+    width: 50%;
 }
 p{
     color: rgb(255,0,0);

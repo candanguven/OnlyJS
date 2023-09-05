@@ -1,0 +1,20 @@
+* {
+  /* margin: 0; */
+  box-sizing: border-box;
+}
+
+h1 {
+  border: 2px solid red;
+}
+p {
+    
+  width: 200px;
+  padding: 5rem;
+  margin: 30px 100px 30px 20px;
+
+  border: 20px solid red;
+  border-right: 10px dotted blue;
+  border-bottom: 5px dashed green;
+
+  border-radius: 35px;
+}
